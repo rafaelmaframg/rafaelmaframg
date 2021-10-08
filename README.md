@@ -8,7 +8,7 @@ If you are interested to see my skill set, I created a GitHub to post some codes
 Thank you for checking my profile, feel free to reach me out anytime. 
 
 
-📚 Studying Python\SQL\ and Cloud 
+📚 Studying Python\Django\SQL\ and Cloud 
 💻 I'm a Python passionate
 
 
