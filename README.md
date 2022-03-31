@@ -12,4 +12,5 @@ Thank you for checking my profile, feel free to reach me out anytime.
 💻 I'm a Python passionate
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelmaframg)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelmaframg&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmaframg&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
