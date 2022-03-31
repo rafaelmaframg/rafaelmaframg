@@ -20,7 +20,7 @@ Thank you for checking my profile, feel free to reach me out anytime.
 </div>
 
 <div>
- Tech's<br>
+ <br><br>Tech's<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" align="center" heigth="50" width="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" align="center" heigth="50" width="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" align="center" heigth="50" width="60"/>
