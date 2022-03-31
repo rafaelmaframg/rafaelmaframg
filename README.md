@@ -17,13 +17,13 @@ Thank you for checking my profile, feel free to reach me out anytime.
 
 <a href="https://www.linkedin.com/in/rafaelmafra88/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  align="center" heigth="50" width="60"></a>
-<div>
+
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" heigth="50" width="60"/>
   
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" heigth="50" width="60"/>
           
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" heigth="50" width="60"/>
           
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" heigth="50" width="60" />
-          </div>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" heigth="50" width="60"/>
+  
           
