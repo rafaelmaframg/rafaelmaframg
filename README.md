@@ -17,6 +17,6 @@ Thank you for checking my profile, feel free to reach me out anytime.
 
 Linkedin:
 <a href='https://www.linkedin.com/in/rafaelmafra88/'>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
           
            </a>
