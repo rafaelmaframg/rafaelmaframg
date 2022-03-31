@@ -16,7 +16,5 @@ Thank you for checking my profile, feel free to reach me out anytime.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmaframg&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 Linkedin:
-<a href='https://www.linkedin.com/in/rafaelmafra88/'>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
-          
-           </a>
+<a href="https://www.linkedin.com/in/rafaelmafra88/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  align="center" heigth="50" width="60"></a>
