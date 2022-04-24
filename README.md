@@ -4,7 +4,7 @@ Student of Python which I am passionate about and programming enthusiastic. At P
 I moved recently to England to start working on my career in new place, looking for new offers, challenges and an opportunity to start develop professionally.
 “You just have to get started.” Mark Zuckerberg.
 
-If you are interested to see my skill set, I created a GitHub to post some codes and projects, you can view at: https://www.linkedin.com/in/rafaelmafra88/
+If you are interested to see my skill set, you can view at: https://www.linkedin.com/in/rafaelmafra88/
 Thank you for checking my profile, feel free to reach me out anytime. 
 
 
